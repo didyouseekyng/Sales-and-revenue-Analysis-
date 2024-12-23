@@ -1,0 +1,14 @@
+Order_id,Date,Region,Product,Category,Units_sold,Unit_price,Total_revenue
+1001,2023-01-03,North,Widget A,Electronics,150,25,3750
+1002,2023-01-05,South,Widget B,Electronics,200,20,4000
+1003,2023-01-10,East,Widget C,Furniture,50,100,5000
+1004,2023-01-15,West,Widget D,Furniture,80,75,6000
+1005,2023-02-01,North,Widget A,Electronics,180,25,4500
+1006,2023-02-03,East,Widget E,Electronics,300,30,9000
+1007,2023-02-10,West,Widget F,Furniture,90,120,10800
+1008,2023-03-05,South,Widget B,Electronics,250,20,5000
+1009,2023-03-10,North,Widget C,Furniture,60,100,6000
+1010,2023-03-20,West,Widget A,Electronics,200,25,5000
+1011,2023-04-01,East,Widget G,Electronics,120,40,4800
+1012,2023-04-15,North,Widget H,Furniture,70,90,6300
+1013,2023-04-25,South,Widget D,Furniture,85,75,6375
